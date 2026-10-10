@@ -41,7 +41,7 @@
     "@coinbase/cds-illustrations": "workspace:^",
     "@coinbase/cds-mcp-server": "workspace:^",
     "@coinbase/cds-utils": "workspace:^",
-    "@modelcontextprotocol/sdk": "^1.13.1",
+    "@modelcontextprotocol/sdk": "^1.31.0",
     "d3-array": "^3.2.4",
     "d3-color": "^3.1.0",
     "d3-interpolate": "^3.0.1",
@@ -53,7 +53,7 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
-    "@babel/core": "^7.28.0",
+    "@babel/core": "^8.0.7",
     "@babel/preset-env": "^7.28.0",
     "@babel/preset-react": "^7.28.5",
     "@babel/preset-typescript": "^7.27.1",
